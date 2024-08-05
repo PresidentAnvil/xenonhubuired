@@ -1,4 +1,4 @@
-	local library = {}
+	library = {}
 
 	library.__index = library
 
