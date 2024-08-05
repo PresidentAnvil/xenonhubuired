@@ -1,4 +1,4 @@
-	library = {}
+	local library = {}
 
 	library.__index = library
 
@@ -1012,4 +1012,4 @@
 		self.UI.Enabled = not self.UI.Enabled 
 	end
 
-return Library
+return library
